@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Album example for Bootstrap</title>
+    <title>Vinsent Chitekwe</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -28,8 +28,8 @@
 
     <div class="blog-header">
       <div class="container">
-        <h1 class="blog-title">The Bootstrap Blog</h1>
-        <p class="lead blog-description">An example blog template built with Bootstrap.</p>
+        <h1 class="blog-title">Vin Blog</h1>
+        <p class="lead blog-description">Software breaker by day, hacker by night.</p>
       </div>
     </div>
 
