@@ -14,6 +14,7 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/app.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Harmattan|Scope+One" rel="stylesheet">
   </head>
 
   <body>
